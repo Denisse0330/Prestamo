@@ -1,0 +1,15 @@
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.exe
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.deps.json
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.runtimeconfig.json
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.runtimeconfig.dev.json
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.dll
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.pdb
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.csproj.AssemblyReference.cache
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.FrmCalculadora.resources
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.csproj.GenerateResource.cache
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.AssemblyInfoInputs.cache
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.AssemblyInfo.cs
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.csproj.CoreCompileInputs.cache
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.dll
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.pdb
+C:\Users\Denisse Furcal\Desktop\Programacion\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.genruntimeconfig.cache
